@@ -1,0 +1,17 @@
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\bin\Debug\net7.0-windows\app2.exe
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\bin\Debug\net7.0-windows\app2.deps.json
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\bin\Debug\net7.0-windows\app2.runtimeconfig.json
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\bin\Debug\net7.0-windows\app2.dll
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\bin\Debug\net7.0-windows\app2.pdb
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\obj\Debug\net7.0-windows\app2.csproj.AssemblyReference.cache
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\obj\Debug\net7.0-windows\app2.Form1.resources
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\obj\Debug\net7.0-windows\app2.csproj.GenerateResource.cache
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\obj\Debug\net7.0-windows\app2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\obj\Debug\net7.0-windows\app2.AssemblyInfoInputs.cache
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\obj\Debug\net7.0-windows\app2.AssemblyInfo.cs
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\obj\Debug\net7.0-windows\app2.csproj.CoreCompileInputs.cache
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\obj\Debug\net7.0-windows\app2.dll
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\obj\Debug\net7.0-windows\refint\app2.dll
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\obj\Debug\net7.0-windows\app2.pdb
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\obj\Debug\net7.0-windows\app2.genruntimeconfig.cache
+C:\Users\SOMBHU DAS\Desktop\.NET\app2\obj\Debug\net7.0-windows\ref\app2.dll
